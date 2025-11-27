@@ -55,11 +55,12 @@ Sales Optimization: Helps track and boost underperforming products
 Trend Analysis: Enables detection of seasonal patterns and revenue fluctuations
 Decision Support: Provides actionable insights for executives and sales managers
 
-🖼️ Screenshots / Demos
+## 🖼️ Dashboard Screenshot
 
 Dashboard Preview:
 
 You can view and interact with the dashboard online here:
 🔗 (https://app.powerbi.com/view?r=eyJrIjoiMzM3NDJmNzktYzFkMS00ZTI3LTgxYWMtY2VkNDcxM2IwMjk4IiwidCI6ImFmN2E0MGMwLWE4MWQtNGZkZi05ZTQwLTcwNzNjNzQ1NzI1NCJ9)
 
-Dashboard preview Screenshot : (https://github.com/ABH1516/Sales-Insights-Dashboard/blob/main/Sales_Insights_1.png)
+[![Sales Insights Dashboard](https://github.com/ABH1516/Sales-Insights-Dashboard/blob/main/Sales_Insights_1.png)](https://github.com/ABH1516/Sales-Insights-Dashboard/blob/main/Sales_Insights_1.png)
+
