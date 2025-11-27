@@ -1,59 +1,92 @@
 # Sales-Insights-Dashboard
 📊 Sales Insights Dashboard
 
-Explore an interactive Power BI Sales Insights Dashboard to analyze revenue trends, track KPIs, and visualize product and regional performance for data-driven business decisions.
-A dynamic, interactive Power BI dashboard designed to explore and analyze sales performance across multiple dimensions, helping businesses identify trends, monitor KPIs, and make data-driven decisions.
+Explore an interactive Power BI Sales Insights Dashboard to:
+
+Analyze revenue trends
+
+Track KPIs
+
+Visualize product and regional performance
+
+Enable data-driven business decisions
+
+A dynamic dashboard built to explore sales performance across multiple dimensions, helping businesses identify trends and monitor KPIs efficiently.
 
 🔹 Purpose
 
-The Sales Insights Dashboard provides a visually engaging and analytical view of sales data across products, regions, and time periods. It helps business managers, analysts, and decision-makers quickly understand sales trends, top-performing products, and regional performance.
+The Sales Insights Dashboard helps:
+
+Quickly understand sales trends
+
+Identify top-performing products
+
+Analyze regional performance
+
+Support managers and analysts in decision-making
 
 🛠️ Tech Stack
 
-The dashboard was built using the following tools and technologies:
+📊 Power BI Desktop – Interactive report creation
 
-📊 Power BI Desktop – Primary platform for creating interactive reports
-📂 Power Query – Used for data cleaning, transformation, and shaping
-🧠 DAX (Data Analysis Expressions) – For calculated measures, dynamic visuals, and business logic
-📝 Data Modeling – Relationships between tables (sales, products, regions) enable cross-filtering and aggregation
-📁 File Format – .pbix for the report and .png images for previews
+📂 Power Query – Data cleaning and transformation
+
+🧠 DAX (Data Analysis Expressions) – Calculated measures and dynamic visuals
+
+📝 Data Modeling – Relationships between tables (sales, products, regions) for cross-filtering
+
+📁 File Format – .pbix for the report, .png for screenshots
 
 📈 Data Source
 
-The dashboard leverages internal sales datasets, including:
-Sales transactions (Product ID, Quantity, Revenue, Region, Date)
-Product catalog details (Product Name, Category, Price)
-Regional information (Region Name, Country, Territory)
-Source: Company internal sales system.
+Sales Transactions: Product ID, Quantity, Revenue, Region, Date
+
+Product Catalog: Product Name, Category, Price
+
+Regional Info: Region Name, Country, Territory
+
+Source: Company internal sales system
 
 ✨ Features / Highlights
 Business Problem
-Companies often struggle to analyze and visualize sales data effectively, which makes it difficult to:
-Track revenue performance by region or product
-Identify top-selling or underperforming products
-Monitor monthly or quarterly trends
+
+Hard to track revenue by region or product
+
+Difficult to identify top-selling or underperforming products
+
+Challenging to monitor monthly or quarterly trends
 
 Goal of the Dashboard
-To provide an interactive tool that:
-Enables users to explore sales data at a glance
-Supports informed decision-making for sales strategies
-Highlights opportunities for growth or optimization
+
+Explore sales data interactively
+
+Support informed business decisions
+
+Highlight opportunities for growth or optimization
 
 Walkthrough of Key Visuals
 
-Key KPIs (Top Left) – Total Sales, Total Orders, Average Revenue per Order
-Region Filter Panel – Interactive slicer to filter data by regions or countries
-Top Products by Revenue (Bar Chart) – Ranks products based on total revenue
-Sales Trend Over Time (Line Chart) – Shows monthly sales trends to identify growth patterns
-Sales by Category (Stacked Bar Chart) – Displays contribution of each product category to overall sales
-Revenue vs Target (Gauge/Line Chart) – Compares actual revenue to target goals for performance tracking
+Key KPIs: Total Sales, Total Orders, Average Revenue per Order
+
+Region Filter Panel: Interactive slicer for regions or countries
+
+Top Products by Revenue (Bar Chart): Ranks products by revenue
+
+Sales Trend Over Time (Line Chart): Monthly sales trends
+
+Sales by Category (Stacked Bar Chart): Contribution of each product category
+
+Revenue vs Target (Gauge/Line Chart): Compare actual vs target revenue
 
 Business Impact & Insights
 
-Strategic Planning: Identifies high-performing regions or products for resource allocation
-Sales Optimization: Helps track and boost underperforming products
-Trend Analysis: Enables detection of seasonal patterns and revenue fluctuations
-Decision Support: Provides actionable insights for executives and sales managers
+Strategic Planning: Identify high-performing regions/products
+
+Sales Optimization: Improve underperforming products
+
+Trend Analysis: Detect seasonal patterns and revenue fluctuations
+
+Decision Support: Provide actionable insights for executives and managers
 
 ## 🖼️ Dashboard Screenshot
 
